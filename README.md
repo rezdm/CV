@@ -1,2 +1,2 @@
 # CV
-CV in LaTeX
+To compile from TeX to PDF: pdflatex cv.tex
